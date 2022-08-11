@@ -21,6 +21,7 @@ import com.learnautomation.utility.ExcelDataProvider;
 import com.learnautomation.utility.Helper;
 
 public class Baseclass {
+	
 	public WebDriver driver;
 	public ExcelDataProvider excel;
 	public ConfigDataProvider config;
